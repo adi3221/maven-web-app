@@ -2,11 +2,11 @@
 <body>
 <h1><font color='red'> Aditya Tiwari World <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://ashokitech.com/online-training-schedules">Docker_Kubernetes_Jenkins</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 / 99 85 29 66 77</h2>
+  <h2> Call Me : + 91 - 9696971117</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Chennai </h3>
   
  <p> All the best my dear friend....</p>
 
